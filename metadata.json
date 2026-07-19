@@ -1,0 +1,6 @@
+{
+  "name": "Talkpal Language Learner",
+  "description": "An interactive language learning application inspired by Talkpal with server-side Gemini AI feedback, supporting Swedish, English, Urdu, Turkish, Korean, and Chinese, with a rich Android emulator interface and native Jetpack Compose Kotlin source explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
